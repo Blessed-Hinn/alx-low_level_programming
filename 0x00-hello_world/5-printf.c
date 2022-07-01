@@ -2,6 +2,6 @@
 
 int main(void)/*This is the main function,entry point of the program*/
 {
-	printf(stderr,"with proper grammar, but the outcome is a piece of art,");
+	printf("with proper grammar, but the outcome is a piece of art,");
 	return (0);
 }
