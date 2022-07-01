@@ -2,5 +2,5 @@
 int main(void)/*Entry point of the program*/
 {
 	puts("Programming is like building a multilingual puzzle");/*Prints information*/	
-	return (0);/*Returns a value*/
+	return 0;/*Returns a value*/
 }
