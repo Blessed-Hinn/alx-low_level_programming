@@ -1,7 +1,10 @@
-#include<stdio.h>/*Including a header file*/
-/*document*/
-int main(void)/*This is the main function,entry point of the program*/
+#include<stdio.h>
+/**
+ * main - Entry Point
+ * Return: Always 0 (success)
+ */
+int main(void)
 {
-	printf("with proper grammar, but the outcome is a piece of art,\n");/*document*/
+	printf("with proper grammar, but the outcome is a piece of art,\n");
 	return (0);
 }
