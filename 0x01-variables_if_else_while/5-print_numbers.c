@@ -14,4 +14,5 @@ int main(void)
 		if (num == 9)
 			printf("\n");
 	}
+	return (0);
 }
