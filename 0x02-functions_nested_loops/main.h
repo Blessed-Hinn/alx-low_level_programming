@@ -6,6 +6,6 @@ void print_alphabet(void)
 	{
 		putchar(n);
 		if (n == 'z')
-			putchar('\n');
+			_putchar('\n');
 	}
 }
