@@ -1,1 +1,1 @@
-This Directory contains all filesabout basics of C language
+This directory contains nested loops' projects
