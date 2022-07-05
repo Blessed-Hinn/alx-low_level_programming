@@ -1,5 +1,11 @@
-int main(void)
+void print_alphabet(void)
 {
-	printf("_putchar\n");
-	return (0);
+	int n;
+
+	for (n = 'a'; n <= 'z'; n++)
+	{
+		putchar(n);
+		if (n == 'z')
+			putchar('\n');
+	}
 }
