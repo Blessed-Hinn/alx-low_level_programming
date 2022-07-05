@@ -1,4 +1,5 @@
-void print_alphabet(void)
+#include <stdio.h>
+void print_alphabet_x10(void)
 {
 	int n;
 
