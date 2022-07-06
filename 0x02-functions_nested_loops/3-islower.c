@@ -6,9 +6,8 @@
 
 int _islower(int c)
 {
-	char m;
 
-	if (islower(m) == 0)
+	if (islower(c) == 0)
 	{
 		return 0;
 	}
