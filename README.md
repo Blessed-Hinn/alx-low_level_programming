@@ -1,1 +1,1 @@
-This directory contains nested loops' projects
+Contains directories for alx-low_levelLprogramming
