@@ -2,10 +2,12 @@
 /**
  * main - entry point
  * Return: always 0 (success)
+ * print_alphabet - prints alphabets in lowercase
  */
 void print_alphabet(void)
 {
 	char n;
+
 	for (n = 'a'; n <= 'z'; n++)
 	{
 		_putchar(n);
