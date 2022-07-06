@@ -17,4 +17,6 @@ int _abs(int c);
 int print_last_digit(int c);
 
 int add(int a,int b);
+
+void times_tables(void);
 #endif
