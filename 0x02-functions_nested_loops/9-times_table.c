@@ -6,14 +6,13 @@
 void times_table(void)
 {
 	int i, j;
-	int prod = (i * j);
-
+	
 	for (i = 0; i <= 9; i++)
 	{
 		for (j = 0; j <= 9; j++)
 		{
-			return (prod);
+			_putchar("%d,..", i * j);
 		}
-		_putchar('\n');
+		_putchar("\n");
 	}
 }
