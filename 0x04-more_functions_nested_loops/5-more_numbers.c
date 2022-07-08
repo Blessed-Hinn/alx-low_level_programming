@@ -5,9 +5,10 @@
 
 void more_numbers(void)
 {
-	int n = 0, j;
+	int n = 1;
+	char j;
 
-	while (n < 10)
+	while (n <= 10)
 	{
 		for (j = '0'; j <= '14'; j++)
 		{
