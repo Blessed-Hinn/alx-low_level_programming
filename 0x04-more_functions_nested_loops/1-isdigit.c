@@ -7,7 +7,7 @@
  * Return: Value to be returned/
  */
 
-int _isdigit(int c);
+int _isdigit(int c)
 {
 	if (isdigit(c) == 0)
 	{
