@@ -2,9 +2,11 @@
 #define MAIN_H
 void print_alphabet(void);
 
-int _putchar(char c);
+int _putchar(char);
 
 void print_alphabet_x10(void);
+
+void jack_bauer(void);
 
 int _islower(int c);
 
