@@ -16,7 +16,7 @@ void more_numbers(void)
 			if (j == 14)
 				_putchar('\n');
 		}
+		_putchar('\n');
 		n++;
-	}
-	_putchar('\n');
+	}	
 }
